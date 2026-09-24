@@ -1,0 +1,23 @@
+{
+  "repo": "memu-complete",
+  "product": "MEmu Complete",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "android-emulator",
+  "topics": [
+    "memu",
+    "memu-windows",
+    "android-emulator-desktop",
+    "how-to-install-memu",
+    "memu-desktop-package",
+    "memu-workspace",
+    "memu-pro-tools",
+    "memu-suite",
+    "zentool-memu",
+    "memu-tool-9"
+  ],
+  "site": "zentool.art"
+}
